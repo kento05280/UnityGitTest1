@@ -10,10 +10,10 @@ public class SceneViewCamera : MonoBehaviour
   private float wheelSpeed = 1f;
 
   [SerializeField, Range(0.1f, 10f)]
-  private float moveSpeed = 0.3f;
+  private float moveSpeed = 0.5f;
 
   [SerializeField, Range(0.1f, 10f)]
-  private float rotateSpeed = 0.3f;
+  private float rotateSpeed = 0.5f;
 
   private Vector3 preMousePos;
 

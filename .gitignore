@@ -28,3 +28,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/GitHubTest/.vs/GitHubTest/v15/Server/sqlite3
